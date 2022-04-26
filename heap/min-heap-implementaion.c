@@ -1,4 +1,4 @@
-/* implementation of heap data structure 
+/* Implementation of min heap data structure 
 */
 #include<stdio.h>
 #include<stdlib.h>
