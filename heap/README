@@ -1,0 +1,6 @@
+pshiva@PSHIVA-M-4J6R leetcode % ./a.out 
+Heapify'ed array: 2 8 7 
+Length of heap = 3
+Heapify'ed array: 2 1 7 8 6 
+Length of heap = 5
+print_heap: Heap is empty
